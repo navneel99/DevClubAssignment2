@@ -1,0 +1,28 @@
+
+
+.bigbox{
+background-color: Dimgrey;
+border-radius: 30px;
+height:710px;
+width:900px;
+margin: auto;
+
+}
+
+h2{
+font-family: Arial;
+color: LightGrey;
+width: 100%;
+
+}
+
+
+.image{
+display:inline-block;
+border-radius: 30px;
+height: 200px;
+width: 275px;
+padding:0;
+margin: 10px;
+
+}
